@@ -1,6 +1,6 @@
-  I  Created a RecipeCollection class that uses a List<Recipe> to store multiple Recipe objects.
+1. I Created a RecipeCollection class that uses a List<Recipe> to store multiple Recipe objects.
 
-2. I  Implement the ability for the user to enter unlimited recipes by repeatedly creating new Recipe objects and adding them to the RecipeCollection.
+2. I Implement the ability for the user to enter unlimited recipes by repeatedly creating new Recipe objects and adding them to the RecipeCollection.
 
 3. Modify the Recipe class to include a Name property for each recipe, and use it to sort the RecipeCollection alphabetically by name.
 
